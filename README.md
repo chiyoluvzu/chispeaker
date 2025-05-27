@@ -77,4 +77,3 @@ if you're missing dependencies, the app will ask to install them for u 💅
   <br>
   <i style="color:#ff00d9;">"fuck white bitches"</i>
 </p>
-```
